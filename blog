@@ -1,4 +1,0 @@
-git clone https://github.com/plusjade/jekyll-bootstrap.git madgooch.github.com
-cd madgooch.github.com
-git remote set-url origin git@github.com:madgooch/madgooch.github.com.git
-git push origin master
